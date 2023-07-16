@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - printing with puts instead of printf
- * return 0 if successful
+ * main - printing with puts instead of printf.
+ * Return: 0 if successful.
  */
 int main(void)
 {
